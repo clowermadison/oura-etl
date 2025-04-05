@@ -1,0 +1,4 @@
+requests>=2.31.0
+polars>=0.20.7
+toml>=0.10.2
+jupyter>=1.0.0

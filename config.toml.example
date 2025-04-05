@@ -1,0 +1,6 @@
+# Oura Ring API Configuration
+[API]
+# The base URL for the Oura Ring API
+BASE_URL = "https://api.ouraring.com"
+# Your personal access token from https://cloud.ouraring.com/personal-access-tokens
+TOKEN = "YOUR_OURA_API_TOKEN_HERE" 
