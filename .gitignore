@@ -34,6 +34,24 @@ wheels/
 .installed.cfg
 *.egg
 
+# Virtual Environment
+venv/
+env/
+ENV/
+base/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+data/
+logs/
+*.db
+config.toml
+
 # Data
 *.parquet
 data/*
